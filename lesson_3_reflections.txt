@@ -11,3 +11,6 @@ Describe the differences between forks, clones, and branches. When would you use
   I would use fork when i want to conribute to anothers project 
   i would use clone when i want to copy someone else's project on my local machine
   i would use branches when am may be adding a new feature on my project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  IT can be accessible offine and changes would be upto date.
